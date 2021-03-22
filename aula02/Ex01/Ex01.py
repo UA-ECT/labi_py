@@ -1,13 +1,10 @@
 # Run with:
 #   python3 Ex01.py [origin file] [end file]
-# 
+#
 
 # imports
 import sys #for the arguments
 import hashlib #for the encryption
-
-print(sys.argv)
-
 
 # read origin file
 # help: https://www.w3schools.com/python/python_file_open.asp
